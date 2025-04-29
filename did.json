@@ -13,11 +13,11 @@
           "n": "qiscBYKESJeWGeEJE9gRnVBOR8tQmQKz66X7KC9GOL4-dPRea0sXfABBkxzFzr9QFUkYSo0ndz6PqQ1cafS5EQKFozbJ0vb0H0V1TWX4ocUbVBcNhsmQG1_Fo0nGosOR900fa4vMB5ohT3hSznFXJl-PlyJq7-H8g3RnEqNM7Jgrj52GsjDOmmd-JXv93lDtrUuVpcFTUyKAa8reJbUJBsWrJpLFDIoaM0-6jUVY8iYZ4DS3KtCRRHWszPaVzem2EUf-GUhpz1QAS_KHps95FPQ8RU8UuG2rUOK6nY6F7nEW6SILSGQn925lDg69Te_kDQJ9UbOu7bBqVrWhqADcJQ",
           "e": "AQAB",
           "alg": "RS256",
-          "x5u": "https://raw.githubusercontent.com/{GitHub Profile Name}/gaia-x-did/main/{fileName}.pem"
+          "x5u": "https://raw.githubusercontent.com/kinteiro/gaia-x-did/main/cert.pem"
         }
       }
     ],
     "assertionMethod": [
-      "did:web:raw.githubusercontent.com:{GitHub Profile Name}:gaia-x-did:main#gaia-x-did-id"
+      "did:web:raw.githubusercontent.com:kinteiro:gaia-x-did:main#gaia-x-did-id"
     ]
   }
